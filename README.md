@@ -1,6 +1,6 @@
 # SGI Maquetación
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/sgi-maquetacion/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7be7c2b4-9747-4a57-bf41-db513d323e33/deploy-status)](https://app.netlify.com/sites/sgi-maquetacion/deploys)
 
 Este proyecto es una maquetación web realizada con [Astro](https://astro.build/) y [TailwindCSS](https://tailwindcss.com/). Puedes ver la versión desplegada [aquí](https://sgi-maquetacion.netlify.app/).
 
