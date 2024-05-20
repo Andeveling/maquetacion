@@ -1,0 +1,27 @@
+---
+import Layout from "../layouts/Layout.astro"
+import Card from "../components/Card.astro"
+import Navbar from "../components/Navbar.astro"
+---
+
+<Layout title='SGI - Pantallas' description='SGI - Pantallas del ejercicio'>
+  <main>
+    <div class='container mx-auto space-y-10 grid justify-center'>
+      <h1 class='text-5xl font-bold underline mt-10'>Pantallas</h1>
+
+      <div class='grid grid-col-1 xl:grid-cols-3 gap-4'>
+        <Card
+          title='Pantalla de inicio'
+          url='/login'
+          description='Esta pantalla es la de inicio donde podemos ingresar los datos para acceder'
+        />
+        <Card
+          title='Pantalla de registrarse'
+          url='/registro'
+          description='Esta pantalla es la pantalla de registro de un usuario nuevo por parte del administrador'
+        />
+        <Card title='Pantalla de error' url='/error' description='Esta pantalla es un ejemplo de un error' />
+      </div>
+    </div>
+  </main>
+</Layout>
