@@ -23,7 +23,7 @@ Para comenzar a trabajar con este proyecto, sigue estos pasos:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/sgi-maquetacion.git
+    git clone https://github.com/andeveling/sgi-maquetacion.git
     cd sgi-maquetacion
     ```
 
